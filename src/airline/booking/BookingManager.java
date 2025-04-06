@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class BookingManager {
+public class BookingManager implements IBookingManager {
     private static BookingManager instance;
     private final Map<String,Booking> bookings;
     private final Object lock = new Object();

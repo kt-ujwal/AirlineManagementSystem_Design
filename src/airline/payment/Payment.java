@@ -16,4 +16,5 @@ public class Payment {
     public void processPayment() {
         status = PaymentStatus.COMPLETED;
     }
+    public void setStatus(PaymentStatus status) { this.status = status; }
 }
