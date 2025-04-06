@@ -19,3 +19,4 @@
 
 9. The system should be able to send notifications to customers whenever a reservation is made/modified or there is an update for their flights.
 
+![Class Diagram](docImages_637f5545393ffdc5ae4f7bec_img_8d6fd2-5f6a-8cc-aaba-32d46df782e.webp "Airline Management System") 
